@@ -1,5 +1,5 @@
 # Hey, I'm Adi!
-Fullstack : JS (React) + Spring (Java) | AI Agents & RAG Systems : Python   
+Fullstack : JS (React) + Java (Spring) | AI Agents & RAG Systems : Python   
 
 ---
 
